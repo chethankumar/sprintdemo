@@ -1,11 +1,5 @@
 import React from 'react';
-import {
-  SafeAreaView,
-  ScrollView,
-  View,
-  Text,
-  StatusBar,
-} from 'react-native';
+import { SafeAreaView, ScrollView, View, Text, StatusBar } from 'react-native';
 
 import styles from './HomeStyle';
 
@@ -16,9 +10,10 @@ const Home: () => React$Node = () => {
       <SafeAreaView>
         <ScrollView
           contentInsetAdjustmentBehavior="automatic"
-          style={styles.scrollView}>
+          style={styles.scrollView}
+        >
           <View style={styles.body}>
-           <Text style={styles.welcome}>Welcome to IBM Digital App Builder</Text>
+            <Text style={styles.welcome}>sprint demo</Text>
           </View>
         </ScrollView>
       </SafeAreaView>
