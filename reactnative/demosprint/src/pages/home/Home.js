@@ -18,7 +18,7 @@ const Home: () => React$Node = () => {
           contentInsetAdjustmentBehavior="automatic"
           style={styles.scrollView}>
           <View style={styles.body}>
-           <Text style={styles.welcome}>Welcome to IBM Digital App Builder</Text>
+           <Text style={styles.welcome}>New changes</Text>
           </View>
         </ScrollView>
       </SafeAreaView>
