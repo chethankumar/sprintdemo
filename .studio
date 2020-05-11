@@ -1,0 +1,20 @@
+{
+  "server": {
+    "mfpUrl": "http://127.0.0.1:9080",
+    "serverName": "MobileFoundation",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "reactnative",
+  "platforms": [
+    "ios"
+  ],
+  "isAppAuth": false,
+  "isEncrypt": false,
+  "projectIcon": "/Users/chethankumar/projects/appstash/demosprint/reactnative/demosprint/resources/icon.png",
+  "projectName": "demosprint",
+  "projectVersion": "1.0",
+  "projectBundleId": "com.sprint.demo",
+  "isAnalyticsEnabled": true,
+  "isLiveUpdateEnabled": false,
+  "projectMode": "code"
+}
